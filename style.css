@@ -1,0 +1,77 @@
+body {
+    background: #e5f4f9;
+    padding: 0 20px 20px;
+}
+
+h1, h3, h4 {
+    font-family: 'Courgette', cursive;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 30px;
+}
+
+.paris__intro span {
+    color: red;
+}
+
+.paris__why span {
+    color: dodgerblue;
+    font-weight: bold
+}
+.paris__why span:nth-of-type(even) {
+    color: tomato;
+}
+
+ol {
+    list-style-type: '\1F449';
+}
+ol li, ul li {
+    padding-left: 15px;
+}
+
+ul {
+    list-style-type: '\2714';
+    /* list-style-image: url('images/favicon.png'); */
+}
+
+h4 mark {
+    text-transform: uppercase;
+}
+h4:nth-of-type(2) mark {
+    background: lightcoral;
+}
+
+.paris__why-part2 span {
+    color: rgb(254, 1, 132);
+    font-weight: bold
+}
+.paris__why-part2 span:first-of-type {
+    text-decoration: underline wavy;
+}
+.paris__why-part2 span:last-of-type {
+    text-decoration: underline wavy;
+}
+
+.paris__organization > em, i {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+}
+
+a:hover {
+    color: green;
+}
