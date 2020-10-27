@@ -23,4 +23,4 @@ Single webpage about Paris
 
 ## The onlive version
 
-In order to see live version, just [click...!](https://www.google.com)
+In order to see live version, just [click...!](https://hsnakk.github.io/exercise_paris/)
